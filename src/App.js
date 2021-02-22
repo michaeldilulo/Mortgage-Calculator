@@ -1,9 +1,10 @@
 import './App.css';
+import Form from "./Form.js"
 
 function App() {
   return (
     <div className="app">
-<h1>Mortgage Calculator</h1>
+<Form />
     </div>
   );
 }
